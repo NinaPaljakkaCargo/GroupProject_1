@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#temporarily ignoring csv before cleaning
+final_flu.csv
+
+
 # .DS
 .DS_Store
 
