@@ -1,26 +1,34 @@
-#Influenza Infection Rates and Weather Patterns
+**Influenza Infection Rates and Weather Patterns**
 ________________________________________________
 
-##About This Project
+**About This Project**
 _____________________
 
 
-*In this project we looked at Flu infection rates and it's correlation with Weather patterns. To accomplish this, we looked at 2 data sets 
+*In this project we looked at Flu infection rates and it's correlation with Weather patterns. To accomplish this, we....
 
 
 
-##Requirements
+**Requirements**
 ________________
 
+*
+*
 
-##Installation
+
+**Installation**
 ________________
 
+*
+
+*
+
+*
 
 
 
 
-#Analysis
+**Analysis**
 ________________
 
 *
