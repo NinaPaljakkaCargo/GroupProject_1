@@ -8,7 +8,7 @@ __pycache__/
 
 #temporarily ignoring csv before cleaning
 flu.csv
-
+combined_weather_flu_data.csv
 
 # .DS
 .DS_Store
